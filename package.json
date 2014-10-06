@@ -1,5 +1,5 @@
 {
-  "name": "node-zipments",
+  "name": "zipments",
   "version": "0.0.1",
   "description": "Interact with the Zipments API via NodeJS",
   "main": "lib/zipments.js",
