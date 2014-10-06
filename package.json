@@ -2,7 +2,7 @@
   "name": "zipments",
   "version": "0.0.1",
   "description": "Interact with the Zipments API via NodeJS",
-  "main": "lib/zipments.js",
+  "author": "Chetan Shenoy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,14 @@
     "zipments",
     "delivery"
   ],
-  "author": "Chetan Shenoy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cshenoy/node-zipments.git"
+  },
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/zipments.js",
   "license": "MIT",
   "dependencies": {
     "when": "^3.5.0"
