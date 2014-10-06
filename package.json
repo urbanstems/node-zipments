@@ -1,0 +1,18 @@
+{
+  "name": "node-zipments",
+  "version": "0.0.1",
+  "description": "Interact with the Zipments API via NodeJS",
+  "main": "lib/zipments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zipments",
+    "delivery"
+  ],
+  "author": "Chetan Shenoy",
+  "license": "MIT",
+  "dependencies": {
+    "when": "^3.5.0"
+  }
+}
