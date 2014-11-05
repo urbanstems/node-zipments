@@ -1,8 +1,8 @@
 # Zipments
 
-v0.0.1
+v0.1.0
 
-Still working on it.
+Still working on making it an actual library.
 
 HEAVILY based off of Stripe's awesome Node library. Thank you to them for paving the way.
 

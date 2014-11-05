@@ -1,6 +1,6 @@
 {
   "name": "zipments",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Interact with the Zipments API via NodeJS",
   "author": "Chetan Shenoy",
   "scripts": {
